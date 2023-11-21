@@ -1,3 +1,4 @@
 Zettalkasten translate from German to Slip-Box.
 
-The Queue -> Literature Notes -> Evergreen Notes 
+The Queue -> Literature Notes -> Permanent Notes 
+
